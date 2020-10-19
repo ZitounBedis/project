@@ -49,7 +49,7 @@ body {
 
 .quote1 {
     position: absolute;
-    top: 42%;
+    top: 40%;
     left: 52%;
     transform: translate(-50%, -50%);
 }
@@ -111,4 +111,15 @@ body {
 
 .if {
     font-family: 'Jim Nightshade', cursive;
+}
+
+#sign {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+
+#sign {
+    padding: 10px 30px;
 }
