@@ -6,7 +6,7 @@ $(".container button").css("background-color", "#d2b48c");
 $(".column").css("width", "33.33%");
 $(".column").css("padding", "100px");
 $("#topbutton").css("position", "fixed");
-$("#topbutton").css("bottom", "50");
+$("#topbutton").css("bottom", "50%");
 $("h3.description").css("border-style", "double");
 $("h3.description").css("border-color", "black");
 $("h3.read").css("border-style", "dotted");
@@ -19,6 +19,23 @@ $(".btn3").css("fontFamily", "Satisfy", "cursive")
 $(".column").css("width", "33.33%");
 $(".column").css("padding", "100px");
 $(".description").css("fontFamily", "Courier", "monospace")
+$(".image").css("height", "300px")
+$(".image").css("width", "200px")
+$(".error").css("color", "black")
+$("#add").css("color", "black")
+$("#add").css("backgroundcolor", "black")
+$("form").css("top", "50%");
+$("form").css("left", "75%");
+$("form").css("position", "absolte");
+$("form").css("transform", "50%", "50%");
+$("add").css("width", "50%")
+$("error").css("font-weight", "bold")
+$("error").css("display", "none");
+
+
+
+
+
 
 
 
