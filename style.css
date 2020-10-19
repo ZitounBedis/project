@@ -1,0 +1,30 @@
+.images {
+    height: 300px;
+    width: 200px;
+}
+
+#error {
+    color: black;
+    font-weight: bold;
+    display: none;
+}
+
+#add {
+    color: black;
+    background-color: #d2b48c;
+}
+
+.content {
+    grid-area: main;
+}
+
+#form {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%)
+}
+
+#add {
+    width: 50%;
+}

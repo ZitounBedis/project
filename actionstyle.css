@@ -125,3 +125,7 @@
         border-style: dotted;
         border-color: black;
     }
+    
+    .read {
+        color: black;
+    }
