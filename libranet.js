@@ -1,0 +1,10 @@
+$(".adventure").css("fontFamily", "Jim Nightshade", "cursive");
+$(".action").css("fontFamily", "Jim Nightshade", "cursive");
+$(".romance").css("fontFamily", "Jim Nightshade", "cursive");
+$(".horror").css("fontFamily", "Jim Nightshade", "cursive");
+$(".login").css("color", "#795548");
+$(".login").css("border", "none");
+$(".login").css("textAlign", "center");
+$(".login").css("color", "black");
+$(".login").css("backgroundColor", "#795548");
+$(".login").css("fontFamily", "Jim Nightshade", "cursive");

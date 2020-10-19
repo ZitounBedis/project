@@ -12,12 +12,13 @@ $("h3.description").css("border-color", "black");
 $("h3.read").css("border-style", "dotted");
 $("h3.read").css("border-color", "black");
 $(".read").css("color", "black");
-$(".container button").css("float", "center")
-
-
-
-
-
+$(".container button").css("float", "center");
+$(".btn1").css("fontFamily", "Satisfy", "cursive")
+$(".btn2").css("fontFamily", "Satisfy", "cursive")
+$(".btn3").css("fontFamily", "Satisfy", "cursive")
+$(".column").css("width", "33.33%");
+$(".column").css("padding", "100px");
+$(".description").css("fontFamily", "Courier", "monospace")
 
 
 

@@ -37,10 +37,6 @@
         clear: both;
     }
     
-    .description {
-        font-family: Courier, monospace;
-    }
-    
     .vib:hover {
         animation: shake 0.5s;
         animation-iteration-count: infinite;
