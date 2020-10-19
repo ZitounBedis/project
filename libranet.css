@@ -1,0 +1,177 @@
+        body {
+            background-image: url("background2.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        .logo {
+            position: absolute;
+            top: 20%;
+            left: 54%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .adventure {
+            position: absolute;
+            top: 40%;
+            left: 53%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .adventure {
+            font-family: 'Permanent Marker', cursive;
+            ;
+        }
+        
+        .action {
+            position: absolute;
+            top: 57%;
+            left: 53%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .action {
+            font-family: 'Jim Nightshade', cursive;
+        }
+        
+        .adventure {
+            font-family: 'Jim Nightshade', cursive;
+        }
+        
+        .horror {
+            position: absolute;
+            top: 74%;
+            left: 53%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .horror {
+            font-family: 'Jim Nightshade', cursive;
+        }
+        
+        .romance {
+            position: absolute;
+            top: 90%;
+            left: 53%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .romance {
+            font-family: 'Jim Nightshade', cursive;
+        }
+        
+        * {
+            box-sizing: border-box;
+        }
+        
+        .login {
+            background-color: ;
+            border: none;
+            color: #795548;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+        
+        .login {
+            background-color: #795548;
+            color: black;
+            border: 2px solid #4e342e;
+        }
+        
+        .login {
+            font-family: 'Jim Nightshade', cursive;
+        }
+        
+        .login:hover {
+            background-color: #4e342e;
+            color: white;
+        }
+        
+        .login {
+            position: absolute;
+            top: 20%;
+            left: 90%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .a {
+            position: absolute;
+            top: 42%;
+            left: 52%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .z {
+            position: absolute;
+            top: 58%;
+            left: 52.5%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .e {
+            position: absolute;
+            top: 75%;
+            left: 53%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .r {
+            position: absolute;
+            top: 90%;
+            left: 53%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .login {
+            background-color: ;
+            border: none;
+            color: #795548;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+        
+        .login {
+            background-color: #795548;
+            color: black;
+            border: 2px solid #4e342e;
+        }
+        
+        .login:hover {
+            background-color: #4e342e;
+            color: white;
+        }
+        
+        .login {
+            position: absolute;
+            top: 20%;
+            left: 90%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .adventure {
+            color: black;
+        }
+        
+        .action {
+            color: black;
+        }
+        
+        .romance {
+            color: black;
+        }
+        
+        .horror {
+            color: black;
+        }
