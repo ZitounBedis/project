@@ -31,17 +31,6 @@ $("form").css("transform", "50%", "50%");
 $("add").css("width", "50%")
 $("error").css("font-weight", "bold")
 $("error").css("display", "none");
-
-
-
-
-
-
-
-
-
-
-
 $("#add").on("click", function(e) {
     e.preventDefault();
     var itemVal = $("#item").val();

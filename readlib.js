@@ -1,3 +1,12 @@
+$("input-group").css("width", "200px");
+$("#item").css('padding', "10%")
+$("#item").css('width', "106%")
+$("#url").css('padding', "3%")
+$("#url").css('width', "120%")
+$("#add").css('padding', "3%")
+
+$('body').css('background-image', 'url("back.jpg")');
+$("body").css("background-color", "#d2b48c")
 $("#add").on("click", function(e) {
     e.preventDefault();
     var itemVal = $("#item").val();
