@@ -7,6 +7,16 @@ $("#add").css('padding', "3%")
 
 $('body').css('background-image', 'url("back.jpg")');
 $("body").css("background-color", "#d2b48c")
+
+
+$(".sidenav").css("z-index", "1")
+$(".sidenav").css("top", "0")
+$(".sidenav").css("left", "0")
+$(".sidenav").css("background-color", "#111")
+$(".sidenav").css("overflow-x", "hidden")
+$(".sidenav").css("transition", "1s")
+$(".sidenav").css("padding-top", "60px")
+$(".horror").css("color", "black")
 $("#add").on("click", function(e) {
     e.preventDefault();
     var itemVal = $("#item").val();

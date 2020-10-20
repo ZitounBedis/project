@@ -64,9 +64,7 @@
                                                 }
                                                 
                                                 .login {
-                                                    background-color: ;
                                                     border: none;
-                                                    color: #795548;
                                                     padding: 10px 30px;
                                                     text-align: center;
                                                     text-decoration: none;
@@ -93,20 +91,4 @@
                                                     top: 20%;
                                                     left: 90%;
                                                     transform: translate(-50%, -50%);
-                                                }
-                                                
-                                                .adventure {
-                                                    color: black;
-                                                }
-                                                
-                                                .action {
-                                                    color: black;
-                                                }
-                                                
-                                                .romance {
-                                                    color: black;
-                                                }
-                                                
-                                                .horror {
-                                                    color: black;
                                                 }
