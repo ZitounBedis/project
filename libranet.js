@@ -8,3 +8,4 @@ $(".login").css("textAlign", "center");
 $(".login").css("color", "black");
 $(".login").css("backgroundColor", "#795548");
 $(".login").css("fontFamily", "Jim Nightshade", "cursive");
+$("body").css("background-image", 'url(background2.png)');

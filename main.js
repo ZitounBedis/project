@@ -11,6 +11,11 @@ $("h3.description").css("border-style", "double");
 $("h3.description").css("border-color", "black");
 $("h3.read").css("border-style", "dotted");
 $("h3.read").css("border-color", "black");
+$(".logo").css("color", "#795548");
+$(".logo").css("text-align", "center")
+$(".logo").css("text-decoration", "none")
+$(".logo").css("display", "inline-block")
+$(".logo").css("curson", "pointer")
 $(".read").css("color", "black");
 $(".container button").css("float", "center");
 $(".btn1").css("fontFamily", "Satisfy", "cursive")
